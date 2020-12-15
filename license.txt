@@ -2,3 +2,4 @@ new file
 license
 add new line,test diff.
 delete a line.
+first insert.
