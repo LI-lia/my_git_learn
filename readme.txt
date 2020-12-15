@@ -11,4 +11,5 @@ insert first.
 test branch insert.
 test push.
 
-Create a new brach is quick & simple.
+
+Creating a new branch is quick and simple.
