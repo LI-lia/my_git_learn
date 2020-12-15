@@ -10,3 +10,5 @@ add content,test add and commit.
 insert first.
 test branch insert.
 test push.
+
+Creating a new branch is quick and simple.
