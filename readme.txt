@@ -14,3 +14,5 @@ test push.
 
 Creating a new branch is quick and simple.
 insert after merge.
+
+insert test merge in dev2.
