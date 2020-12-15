@@ -13,4 +13,4 @@ test push.
 
 
 Creating a new branch is quick and simple.
-add in master.
+insert after merge.
