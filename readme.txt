@@ -17,3 +17,4 @@ insert after merge.
 
 insert test merge in dev2.
 insert: ²âÊÔÖĞÎÄÏÔÊ¾
+insert in learn2.
